@@ -110,7 +110,7 @@ Desktop app to search, filter & organize saved Instagram posts from JSON exports
 
 <br/>
 
-### 🛠️ Tech Stack
+🛠️ Tech Stack
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -125,10 +125,16 @@ Desktop app to search, filter & organize saved Instagram posts from JSON exports
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
 </p>
-
-<sub>**Also:** OOP · Data Structures & Algorithms · Machine Learning · RAG · Multi-Agent Systems · WordPress · Postman · Sim Studio</sub>
-
----
+<p align="center">
+<img src="https://img.shields.io/badge/OOP-5c5c5c?style=flat-square" />
+<img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-5c5c5c?style=flat-square" />
+<img src="https://img.shields.io/badge/Machine_Learning-5c5c5c?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-5c5c5c?style=flat-square" />
+<img src="https://img.shields.io/badge/Multi--Agent_Systems-5c5c5c?style=flat-square" />
+<img src="https://img.shields.io/badge/WordPress-5c5c5c?style=flat-square&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-5c5c5c?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Sim_Studio-5c5c5c?style=flat-square" />
+</p>
 
 ### 📜 Certifications
 
