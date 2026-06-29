@@ -1,74 +1,132 @@
 <div align="center">
 
-<svg width="700" height="110" viewBox="0 0 700 110" xmlns="http://www.w3.org/2000/svg">
-  <rect width="700" height="110" fill="transparent"/>
-  <text x="350" y="62" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-style="italic" font-weight="400" fill="#1a1a18" text-anchor="middle" letter-spacing="-1">Ferzan Berken Bilek</text>
-  <text x="350" y="90" font-family="'SF Mono', 'Fira Code', monospace" font-size="13" fill="#7a7a72" text-anchor="middle" letter-spacing="4">SOFTWARE ENGINEER  /  AI SYSTEMS</text>
+<svg width="750" height="160" viewBox="0 0 750 160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="750" height="160" fill="transparent"/>
+  <text x="375" y="55" font-family="'Courier New', monospace" font-size="13" fill="#7a7a72" text-anchor="middle" letter-spacing="6">SOFTWARE ENGINEER · AI SYSTEMS</text>
+  <text x="375" y="105" font-family="Georgia, serif" font-size="52" font-weight="700" fill="#1a1a18" text-anchor="middle" letter-spacing="2">FERZAN BERKEN BILEK</text>
+  <line x1="225" y1="125" x2="525" y2="125" stroke="#2d6a4f" stroke-width="2"/>
+  <text x="375" y="148" font-family="'Courier New', monospace" font-size="12" fill="#2d6a4f" text-anchor="middle" letter-spacing="2">ISTANBUL, TURKEY</text>
 </svg>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ferzan--berken--bilek-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferzan-berken-bilek)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-ferzanberkenbilek@gmail.com-ea4335?style=flat&logo=gmail&logoColor=white)](mailto:ferzanberkenbilek@gmail.com)
-&nbsp;
-![Location](https://img.shields.io/badge/Istanbul-Turkey-2d6a4f?style=flat)
+<a href="https://www.linkedin.com/in/ferzan-berken-bilek"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:ferzanberkenbilek@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Hackathon-🏆_1st_Place_2026-d4af37?style=for-the-badge" />
 
 </div>
 
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📋 Summary
+
+Computer engineer passionate about applying theory to practical projects, open to innovation and eager to learn and grow.
+
+🏆 **1st Place — Arketic AI Hackathon (2026)**
+*AI-Powered Decision Support System*
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Education
+
+**Beykoz University**
+Computer Engineering
+`2022 – 2026`
+
+### 🌐 Languages
+
+Turkish `Native` · English `C1`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 💼 Experience
+
+<table>
+<tr><td><b>2026</b></td><td><b>Software Engineer Intern</b> @ Arketic AI</td></tr>
+<tr><td colspan="2">↳ AI-powered enterprise SaaS, multi-agent orchestration systems and internal tooling for enterprise clients</td></tr>
+<tr><td><br></td><td></td></tr>
+<tr><td><b>2025</b></td><td><b>Web Developer</b> @ Grower</td></tr>
+<tr><td colspan="2">↳ SEO-optimized client websites — hosting, deployment, front-end development</td></tr>
+<tr><td><br></td><td></td></tr>
+<tr><td><b>2024</b></td><td><b>Student Support Assistant</b></td></tr>
+<tr><td colspan="2">↳ Call center & help desk support for prospective and current students</td></tr>
+<tr><td><br></td><td></td></tr>
+<tr><td><b>2023</b></td><td><b>E-Commerce Sales Management</b> — Independent Venture</td></tr>
+<tr><td colspan="2">↳ End-to-end Amazon sales operations: supplier coordination, listings, pricing</td></tr>
+</table>
+
+<br/>
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🏆 AI-Powered Decision Support System**
+<br/><sub>Python · Streamlit</sub>
+
+Student feedback platform with admin interface & automated Google Sheets integration
+
+</td>
+<td width="33%" valign="top">
+
+**🔐 Mini-SIEM**
+<br/><sub>Python · FastAPI · scikit-learn</sub>
+
+ML anomaly detection, MITRE ATT&CK mapping & SOC dashboard
+
+</td>
+<td width="33%" valign="top">
+
+**🤖 Multi-Agent Orchestration System**
+<br/><sub>Python · Claude API</sub>
+
+Coordinated multi-agent architecture for enterprise AI workflows
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+</p>
+
+<sub>**Also:** OOP · Data Structures & Algorithms · Machine Learning · RAG · Multi-Agent Systems · WordPress · Postman · Sim Studio</sub>
+
 ---
 
-```
-~ whoami
+### 📜 Certifications
 
-role         Software Engineer Intern @ Arketic AI
-stack        Python · FastAPI · Next.js · Claude API
-agents       Multi-agent orchestration systems built
-award        🏆 1st Place — Arketic AI Hackathon 2026
-```
+`Bogazici Datacamp '22` `Bogazici Datacamp '23` `ITU Artificial Intelligence '24` `Bogazici Innovation & Technology Symposium '24`
 
----
-
-### Highlights
-
-🏆 **1st Place — Arketic AI Hackathon 2026**
-Won with the *AI-Powered Decision Support System* — a Streamlit-based platform for student feedback management with automated Google Sheets integration and admin analytics.
-
----
-
-### Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **AI-Powered Decision Support System** 🏆 | Streamlit platform for student feedback management — admin interface + automated Google Sheets integration | `Python` `Streamlit` `Google Sheets API` |
-| **Multi-Agent Orchestration System** | Multi-agent architecture for coordinating AI workflows across enterprise tooling | `Python` `Claude API` |
-| **Mini-SIEM** | Full SIEM with ML anomaly detection, MITRE ATT&CK mapping & SOC dashboard | `Python` `FastAPI` `PostgreSQL` `scikit-learn` |
-| **Instagram Saved Finder** | PyQt6 desktop app to search & organize saved Instagram posts from JSON exports | `Python` `PyQt6` |
-| **Playlist Converter** | Converts Spotify playlists into YouTube playlists via their APIs | `Python` `Spotify API` `YouTube API` |
-
----
-
-### Skills
-
-```
-Languages     Python · TypeScript · C++ · C# · HTML/CSS · Bash · SQL
-AI / Agents   Claude Code · RAG · Multi-Agent Systems · n8n
-Backend       FastAPI · PostgreSQL · Redis · Next.js
-Tools         Git · Docker · Postman · Sim Studio
-```
-
----
-
-### Experience
-
-```
-2026             Software Engineer Intern   Arketic AI
-2025             Web Developer              Grower
-2022 – 2026      Computer Engineering       Beykoz University
-```
-
----
+<br/>
 
 <div align="center">
-<sub>Istanbul, Turkey · ferzanberkenbilek@gmail.com</sub>
+<sub>📍 Istanbul, Turkey &nbsp;·&nbsp; ferzanberkenbilek@gmail.com</sub>
 </div>
