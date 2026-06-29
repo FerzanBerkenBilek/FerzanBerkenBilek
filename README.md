@@ -21,11 +21,18 @@
 ```
 ~ whoami
 
-role       AI Engineer Intern @ Arketic AI
-stack      Python · FastAPI · Next.js · Claude API
-agents     20-agent orchestration system built
-coverage   99.38% · 616 tests passing
+role         Software Engineer Intern @ Arketic AI
+stack        Python · FastAPI · Next.js · Claude API
+agents       Multi-agent orchestration systems built
+award        🏆 1st Place — Arketic AI Hackathon 2026
 ```
+
+---
+
+### Highlights
+
+🏆 **1st Place — Arketic AI Hackathon 2026**
+Won with the *AI-Powered Decision Support System* — a Streamlit-based platform for student feedback management with automated Google Sheets integration and admin analytics.
 
 ---
 
@@ -33,7 +40,8 @@ coverage   99.38% · 616 tests passing
 
 | Project | Description | Stack |
 |---|---|---|
-| **AgentCorp v2** | 20-agent Claude orchestration system — 3-tier hierarchy, 91% token reduction, 616 tests | `Python` `Claude API` `Docker` |
+| **AI-Powered Decision Support System** 🏆 | Streamlit platform for student feedback management — admin interface + automated Google Sheets integration | `Python` `Streamlit` `Google Sheets API` |
+| **Multi-Agent Orchestration System** | Multi-agent architecture for coordinating AI workflows across enterprise tooling | `Python` `Claude API` |
 | **Mini-SIEM** | Full SIEM with ML anomaly detection, MITRE ATT&CK mapping & SOC dashboard | `Python` `FastAPI` `PostgreSQL` `scikit-learn` |
 | **Instagram Saved Finder** | PyQt6 desktop app to search & organize saved Instagram posts from JSON exports | `Python` `PyQt6` |
 | **Playlist Converter** | Converts Spotify playlists into YouTube playlists via their APIs | `Python` `Spotify API` `YouTube API` |
@@ -43,10 +51,10 @@ coverage   99.38% · 616 tests passing
 ### Skills
 
 ```
-AI / Agents   Claude API · LangChain · RAG · Ollama · n8n
-Backend       Python · FastAPI · PostgreSQL · Redis · Docker
-Frontend      Next.js 15 · TypeScript · Tailwind v4 · shadcn/ui
-Tooling       Git · Linux · Sim Studio · Celery · scikit-learn
+Languages     Python · TypeScript · C++ · C# · HTML/CSS · Bash · SQL
+AI / Agents   Claude Code · RAG · Multi-Agent Systems · n8n
+Backend       FastAPI · PostgreSQL · Redis · Next.js
+Tools         Git · Docker · Postman · Sim Studio
 ```
 
 ---
@@ -54,9 +62,9 @@ Tooling       Git · Linux · Sim Studio · Celery · scikit-learn
 ### Experience
 
 ```
-2025 – present   AI Engineer Intern     Arketic AI
-2025             Web Developer          Grower
-2022 – 2026      Computer Engineering   Beykoz University
+2026             Software Engineer Intern   Arketic AI
+2025             Web Developer              Grower
+2022 – 2026      Computer Engineering       Beykoz University
 ```
 
 ---
