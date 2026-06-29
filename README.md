@@ -3,9 +3,9 @@
 <svg width="750" height="230" viewBox="0 0 750 230" xmlns="http://www.w3.org/2000/svg">
   <rect width="750" height="230" fill="transparent"/>
 
-  <text x="375" y="40" font-family="'Courier New', monospace" font-size="13" fill="#7a7a72" text-anchor="middle" letter-spacing="6">SOFTWARE ENGINEER · AI SYSTEMS</text>
+  <text x="375" y="40" font-family="'Courier New', monospace" font-size="13" fill="#7a7a72" text-anchor="middle" letter-spacing="6">FERZAN BERKEN BILEK</text>
 
-  <text x="375" y="110" font-family="Georgia, serif" font-size="52" font-weight="700" fill="#1a1a18" text-anchor="middle" letter-spacing="2">FERZAN BERKEN BILEK</text>
+  <text x="375" y="110" font-family="Georgia, serif" font-size="52" font-weight="700" fill="#1a1a18" text-anchor="middle" letter-spacing="2">SOFTWARE ENGINEER · AI SYSTEMS</text>
 
   <line x1="260" y1="145" x2="490" y2="145" stroke="#2d6a4f" stroke-width="2"/>
 
