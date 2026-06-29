@@ -1,11 +1,15 @@
 <div align="center">
 
-<svg width="750" height="170" viewBox="0 0 750 170" xmlns="http://www.w3.org/2000/svg">
-  <rect width="750" height="170" fill="transparent"/>
-  <text x="375" y="45" font-family="'Courier New', monospace" font-size="13" fill="#7a7a72" text-anchor="middle" letter-spacing="6">FERZAN BERKEN BILEK</text>
-  <text x="375" y="100" font-family="Georgia, serif" font-size="50" font-weight="700" fill="#1a1a18" text-anchor="middle" letter-spacing="2">SOFTWARE ENGINEER · AI SYSTEMS</text>
-  <line x1="225" y1="122" x2="525" y2="122" stroke="#2d6a4f" stroke-width="2"/>
-  <text x="375" y="148" font-family="'Courier New', monospace" font-size="12" fill="#2d6a4f" text-anchor="middle" letter-spacing="2">ISTANBUL, TURKEY</text>
+<svg width="750" height="230" viewBox="0 0 750 230" xmlns="http://www.w3.org/2000/svg">
+  <rect width="750" height="230" fill="transparent"/>
+
+  <text x="375" y="40" font-family="'Courier New', monospace" font-size="13" fill="#7a7a72" text-anchor="middle" letter-spacing="6">SOFTWARE ENGINEER · AI SYSTEMS</text>
+
+  <text x="375" y="110" font-family="Georgia, serif" font-size="52" font-weight="700" fill="#1a1a18" text-anchor="middle" letter-spacing="2">FERZAN BERKEN BILEK</text>
+
+  <line x1="260" y1="145" x2="490" y2="145" stroke="#2d6a4f" stroke-width="2"/>
+
+  <text x="375" y="190" font-family="'Courier New', monospace" font-size="13" fill="#2d6a4f" text-anchor="middle" letter-spacing="3">📍 ISTANBUL, TURKEY</text>
 </svg>
 
 <br/>
@@ -69,7 +73,15 @@ Turkish `Native` · English `C1`
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
+
+**🔐 Mini-SIEM**
+<br/><sub>Python · FastAPI · scikit-learn</sub>
+
+ML anomaly detection, MITRE ATT&CK mapping & SOC dashboard
+
+</td>
+<td width="25%" valign="top">
 
 **🤖 Multi-Agent Orchestration System**
 <br/><sub>Python · Claude API</sub>
@@ -77,7 +89,7 @@ Turkish `Native` · English `C1`
 Coordinated multi-agent architecture for enterprise AI workflows
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 **🎵 Playlist Converter**
 <br/><sub>Python · Spotify API · YouTube API</sub>
@@ -85,7 +97,7 @@ Coordinated multi-agent architecture for enterprise AI workflows
 Converts Spotify playlists into YouTube playlists automatically
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 **📸 Instagram Saved Finder**
 <br/><sub>Python · PyQt6</sub>
