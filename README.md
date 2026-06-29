@@ -124,8 +124,6 @@ Desktop app to search, filter & organize saved Instagram posts from JSON exports
 <br/>
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
 </p>
 
 <sub>**Also:** OOP · Data Structures & Algorithms · Machine Learning · RAG · Multi-Agent Systems · WordPress · Postman · Sim Studio</sub>
